@@ -77,10 +77,10 @@ project/
 
 ## 🧪 Console Output Sample
 
-Portolio Statistics
-Average Daily Return: 0.000489
-Average Daily Standard Deviation (Risk): 0.0103
-Sharpe Ratio: 0.763
+- Portolio Statistics
+- Average Daily Return: 0.000489
+- Average Daily Standard Deviation (Risk): 0.0103
+- Sharpe Ratio: 0.763
 
 ## 🧭 Step-by-Step Process (Referencing the Numbered Code)
 
