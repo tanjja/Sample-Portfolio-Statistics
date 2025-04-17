@@ -57,7 +57,6 @@ def portfolio_stats():
 
     dates = pd.date_range(start_date, end_date)
 
-    print("Procedure")
     # 1. Get adjust closing prices
     df = get_data(tickers, dates)
     plot_data(df)
